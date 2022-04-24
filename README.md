@@ -23,7 +23,7 @@
 
 
 
-
+![Tendai Clive's's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivetc&show_icons=true&theme=radical)
 
 [![Tendai Clive's github stats](https://github-readme-stats.vercel.app/api?username=clivetc)](https://github.com/clivetc/github-readme-stats)
 
