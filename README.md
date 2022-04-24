@@ -22,7 +22,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=clivetc&show_icons=true&theme=radical"/>
-<img align=" right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clivetc)](https://github.com/clivetc/github-readme-stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clivetc)(https://github.com/clivetc/github-readme-stats)"/>
 
 ![Tendai Clive's's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivetc&show_icons=true&theme=radical)
 
