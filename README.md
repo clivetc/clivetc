@@ -1,6 +1,6 @@
 ### Hi there 👋, Tendai Clive
 #### Automation and Development
-![Automation and Development](https://www.linkedin.com/in/tendai-clive-chikwape-523b3a55/overlay/background-image/)
+![Automation and Development](https://github.com/clivetc/clivetc/blob/main/banner.jpg)
 
  Hi, I’m Tendai Clive from Zimbabwe, and I do Automation and Software Development. I really enjoy learning new cool stuff and I have experience in JavaScript (TypeScript) frameworks such as React, Cypress and Puppeteer. I am Software Developer with experience directing projects from inception to execution, strategically using allocated resources and delegated tasks to achieve on-time and on-budget. Expert in managing technical support operations, diligently troubleshooting issues to identify root causes and prevent recurrence.
 
