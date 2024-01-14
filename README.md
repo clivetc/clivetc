@@ -1,4 +1,4 @@
-![Automation and Development](https://github.com/clivetc/clivetc/blob/main/banner.jpg)
+![Software Development](https://github.com/clivetc/clivetc/blob/main/banner.jpg)
 
 ![Tendai Clive's's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivetc&show_icons=true&theme=radical)
 
@@ -9,7 +9,7 @@
 My core competencies include React, TypeScript, Next.js, HTML, CSS, and JavaScript, as well as Express and NestJS for backend development. I have successfully integrated the frontend with the backend for various projects, ensuring seamless user experience and functionality. I have also developed responsive, visually appealing designs, and optimized web applications for performance and user satisfaction. I work in Agile/Scrum environments, conducting code reviews, identifying issues, and mentoring junior developers. I am passionate about web development and staying updated with the latest industry trends and technologies. I value teamwork, innovation, and customer satisfaction, and I am always eager to learn new skills and take on new challenges.
  
  
- #### Automation and Development
+ #### Software Development
  
 
  ## Skill and Exprience
@@ -31,6 +31,7 @@ My core competencies include React, TypeScript, Next.js, HTML, CSS, and JavaScri
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
  <div/>
 
 - 🌱 I’m currently learning React Native and Next.js 
