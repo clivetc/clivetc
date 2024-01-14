@@ -6,7 +6,7 @@
 
 ### Hi there 👋, I'm Tendai Clive
 
- Hi, I’m Tendai Clive from Zimbabwe, and I do Automation and Software Development. I really enjoy learning new cool stuff and I have experience in JavaScript (TypeScript) frameworks such as React, Cypress and Puppeteer. I am Software Developer with experience directing projects from inception to execution, strategically using allocated resources and delegated tasks to achieve on-time and on-budget. Expert in managing technical support operations, diligently troubleshooting issues to identify root causes and prevent recurrence.
+My core competencies include React, TypeScript, Next.js, HTML, CSS, and JavaScript, as well as Express and NestJS for backend development. I have successfully integrated the frontend with the backend for various projects, ensuring seamless user experience and functionality. I have also developed responsive, visually appealing designs, and optimized web applications for performance and user satisfaction. I work in Agile/Scrum environments, conducting code reviews, identifying issues, and mentoring junior developers. I am passionate about web development and staying updated with the latest industry trends and technologies. I value teamwork, innovation, and customer satisfaction, and I am always eager to learn new skills and take on new challenges.
  
  
  #### Automation and Development
@@ -27,6 +27,10 @@
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"/>
  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
  <div/>
 
 - 🌱 I’m currently learning React Native and Next.js 
