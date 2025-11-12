@@ -1,9 +1,3 @@
-## Overview
-Copy this content to your GitHub profile repository (`clivetc/clivetc`) README.md file to showcase your abilities professionally.
-
----
-
-```markdown
 <div align="center">
 
 ![Software Development](https://github.com/clivetc/clivetc/blob/main/banner.jpg)
@@ -12,13 +6,11 @@ Copy this content to your GitHub profile repository (`clivetc/clivetc`) README.m
 
 ### Full Stack Software Engineer | Healthcare Tech Specialist | AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rhuomaihomecare.co.uk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tendai-chikwape-523b3a55/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clivetchikwape@gmail.com)
 
 </div>
-
----
 
 ## 🚀 About Me
 
