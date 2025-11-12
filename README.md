@@ -22,15 +22,11 @@ I'm a passionate **Full Stack Software Engineer** with **3+ years** of experienc
 I'm a passionate **Full Stack Software Engineer** with over **3 years of experience** building scalable web applications and healthcare technology solutions.  
 Currently working at **CDL Software**, I focus on developing modern, user-centric applications using cutting-edge technologies such as **React**, **NestJS**, and **AWS**.
 
-```typescript
-const tendai = {
-  location: "United Kingdom 🇬🇧",
-  currentRole: "Software Engineer @ CDL Software",
-  specialization: ["Full Stack Development", "Healthcare Tech", "AI/ML"],
-  passions: ["Clean Code", "User Experience", "Innovation"],
-  availableFor: ["Freelance Projects", "Collaboration", "Mentoring"],
-};
-
+👨‍💻 **Software Engineer @ CDL Software**  
+🌍 Based in the **United Kingdom**  
+💻 Passionate about **Full Stack Development**, **Healthcare Tech**, and exploring **AI/ML**  
+⚡ Obsessed with **Clean Code**, **Great UX**, and **Building impactful digital products**  
+🤝 Open for **Freelance**, **Collaboration**, and **Mentoring**
 
 
 ## 💼 Featured Projects
