@@ -149,4 +149,3 @@ const skills = {
 ![Profile Views](https://komarev.com/ghpvc/?username=clivetc&color=667eea&style=for-the-badge)
 
 </div>
-```
