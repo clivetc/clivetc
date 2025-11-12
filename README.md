@@ -17,11 +17,6 @@
 I'm a passionate **Full Stack Software Engineer** with **3+ years** of experience building scalable web applications and healthcare technology solutions. Currently working at **CDL Software**, I specialize in creating modern, user-centric applications using cutting-edge technologies.
 
 
-## 🚀 About Me
-
-I'm a passionate **Full Stack Software Engineer** with over **3 years of experience** building scalable web applications and healthcare technology solutions.  
-Currently working at **CDL Software**, I focus on developing modern, user-centric applications using cutting-edge technologies such as **React**, **NestJS**, and **AWS**.
-
 👨‍💻 **Software Engineer @ CDL Software**  
 🌍 Based in the **United Kingdom**  
 💻 Passionate about **Full Stack Development**, **Healthcare Tech**, and exploring **AI/ML**  
